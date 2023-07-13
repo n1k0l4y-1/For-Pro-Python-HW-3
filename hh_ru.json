@@ -1,0 +1,42 @@
+{
+  "Точка": {
+    "salary": "120000 – 180000 ₽",
+    "city": "Москва",
+    "link": "https://spb.hh.ru/vacancy/82888245?from=vacancy_search_list&query=Python"
+  },
+  "Филиал в г. Санкт-Петербург АО Концерн Радиостроения Вега": {
+    "salary": "от 200000 ₽",
+    "city": "Санкт-Петербург",
+    "link": "https://spb.hh.ru/vacancy/83345305?from=vacancy_search_list&query=Python"
+  },
+  "Digital Reputation": {
+    "salary": "ЗП не указана",
+    "city": "Москва",
+    "link": "https://spb.hh.ru/vacancy/82995371?from=vacancy_search_list&query=Python"
+  },
+  "ООО Национальные Технологии": {
+    "salary": "ЗП не указана",
+    "city": "Москва",
+    "link": "https://spb.hh.ru/vacancy/83394206?from=vacancy_search_list&query=Python"
+  },
+  "ООО ИНТЕХ": {
+    "salary": "ЗП не указана",
+    "city": "Москва",
+    "link": "https://spb.hh.ru/vacancy/83398316?from=vacancy_search_list&query=Python"
+  },
+  "ООО Фаст Софт": {
+    "salary": "от 200000 ₽",
+    "city": "Санкт-Петербург",
+    "link": "https://spb.hh.ru/vacancy/83386645?from=vacancy_search_list&query=Python"
+  },
+  "ООО Фабрика Решений": {
+    "salary": "150000 – 250000 ₽",
+    "city": "Москва",
+    "link": "https://spb.hh.ru/vacancy/82929790?from=vacancy_search_list&query=Python"
+  },
+  "Own Script": {
+    "salary": "110000 – 180000 ₽",
+    "city": "Москва",
+    "link": "https://spb.hh.ru/vacancy/82349953?from=vacancy_search_list&query=Python"
+  }
+}
